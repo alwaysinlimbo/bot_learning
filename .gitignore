@@ -1,0 +1,19 @@
+# Виртуальные окружения
+myenv/
+venv/
+env/
+.venv/
+
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# Файлы с секретами (сделано на будущее)
+.env
+config.local.py
